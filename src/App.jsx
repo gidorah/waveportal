@@ -109,7 +109,7 @@ const App = () => {
         */}
         {!currentAccount && (
           <button className="waveButton" onClick={connectWallet}>
-            Connect Wallet
+            Connect Your Wallet
           </button>
         )}
 
