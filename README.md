@@ -1,13 +1,7 @@
-## Running React on Repl.it
+## Buildspace - Web3 App with Solidity + Ethereum Smart Contracts Project
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+This is the repo I am using for [Buildspace's tutorial-project](https://app.buildspace.so/projects/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b)'s front-end.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+It is living in [here](https://waveportal-starter-project.gidorah1.repl.co) I hope.
 
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+[Replt](https://replit.com/@gidorah1/waveportal-starter-projec) is used for the development.
